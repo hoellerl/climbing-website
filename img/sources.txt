@@ -1,0 +1,8 @@
+rock-climber-banner.jpg: https://www.pexels.com/de-de/foto/natur-berg-wandern-reise-5372687/
+types-top-rope.jpg: https://www.pexels.com/photo/man-rock-climbing-16824426/
+types-bouldering.jpg: https://unsplash.com/de/fotos/NY1D4Zni7fc
+equipment-general.jpg: https://www.pexels.com/photo/a-man-with-climbing-equipment-around-his-waist-8607120/
+equipment-chalk.jpg: https://www.pexels.com/photo/a-wall-climber-getting-chalk-from-a-chalk-bag-6689597/
+equipment-cam.jpg: https://www.flickr.com/photos/131102638@N08/50082913246/ (by MLY_6554 under https://creativecommons.org/licenses/by-nc/2.0/)
+history-19th-century.jpg: Abraham Bros, 1890s
+history-yosemite.jpg: https://commons.wikimedia.org/wiki/Category:Climbing_in_Yosemite_Valley#/media/File:Climbing_in_Yosemite_Valley_-_02.jpg (by tpuyol on flickr under https://creativecommons.org/licenses/by/2.0/)
